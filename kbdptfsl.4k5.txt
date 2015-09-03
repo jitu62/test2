@@ -1,0 +1,13 @@
+﻿Revert "update index.html file"
+
+This reverts commit 7786f7c1f33ff09d28518b7ab3945f1ba8333ebf.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    index.html
+#
+
